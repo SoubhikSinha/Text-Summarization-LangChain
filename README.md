@@ -40,3 +40,9 @@ Install all the necessary dependencies :
 ```bash
 pip install -r requirements.txt
 ```
+
+<br>
+
+
+### **5. Run the Notebook**
+Follow the instructions in the notebook and execute the cells accordingly. **Note:** An `OpenAI` API key is required.
